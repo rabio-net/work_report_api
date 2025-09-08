@@ -1,0 +1,1 @@
+{"version":3,"file":"ingredientController.d.ts","sourceRoot":"","sources":["../../controllers/ingredientController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAgB,MAAM,SAAS,CAAC;AAI1D,MAAM,CAAC,OAAO,OAAO,oBAAoB;WAC1B,iBAAiB,CAC5B,OAAO,EAAE,OAAO,EAChB,QAAQ,EAAE,QAAQ;CAUrB"}

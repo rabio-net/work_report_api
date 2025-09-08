@@ -1,0 +1,1 @@
+{"version":3,"file":"processController.d.ts","sourceRoot":"","sources":["../../controllers/processController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAgB,MAAM,SAAS,CAAC;AAI1D,MAAM,CAAC,OAAO,OAAO,iBAAiB;WACvB,eAAe,CAC1B,OAAO,EAAE,OAAO,EAChB,QAAQ,EAAE,QAAQ;CAUrB"}
