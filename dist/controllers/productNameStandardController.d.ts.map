@@ -1,1 +1,0 @@
-{"version":3,"file":"productNameStandardController.d.ts","sourceRoot":"","sources":["../../controllers/productNameStandardController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAgB,MAAM,SAAS,CAAC;AAI1D,MAAM,CAAC,OAAO,OAAO,6BAA6B;WACnC,0BAA0B,CACrC,OAAO,EAAE,OAAO,EAChB,QAAQ,EAAE,QAAQ;CAiBrB"}

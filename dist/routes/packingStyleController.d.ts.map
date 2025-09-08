@@ -1,1 +1,0 @@
-{"version":3,"file":"packingStyleController.d.ts","sourceRoot":"","sources":["../../routes/packingStyleController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAgB,MAAM,SAAS,CAAC;AAI1D,MAAM,CAAC,OAAO,OAAO,yBAAyB;WAC/B,kBAAkB,CAC7B,OAAO,EAAE,OAAO,EAChB,QAAQ,EAAE,QAAQ;CAcrB"}

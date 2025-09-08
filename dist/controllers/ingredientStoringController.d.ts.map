@@ -1,1 +1,0 @@
-{"version":3,"file":"ingredientStoringController.d.ts","sourceRoot":"","sources":["../../controllers/ingredientStoringController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAgB,MAAM,SAAS,CAAC;AAI1D,MAAM,CAAC,OAAO,OAAO,2BAA2B;WACjC,uBAAuB,CAClC,OAAO,EAAE,OAAO,EAChB,QAAQ,EAAE,QAAQ;CAiBrB"}
