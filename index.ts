@@ -1,5 +1,6 @@
 import express from "express";
 import cors from "cors";
+import aliveRouter from './routes/alive';
 import authRouter from './routes/auth';
 import ingredientClassificationRouter from './routes/ingredientClassification';
 import ingredientRouter from './routes/ingredient';
@@ -15,20 +16,25 @@ import semifinishedIngredientRouter from './routes/semifinishedIngredient';
 import semifinishedRouter from './routes/semifinished';
 import productIngredientRouter from './routes/productIngredient';
 import productRouter from './routes/product';
-require('dotenv').config();
+require('dotenv').config({ path: __dirname + '/.env' });
 
 const port = process.env.PORT;
+
 const allowedOrigins = [
-  'http://localhost:3000',
-  'http://localhost:3001',
+  'https://os3-298-38573.vs.sakura.ne.jp',
+  //'http://localhost:3000',
+  //'http://localhost:3001',
 ];
+
 const options: cors.CorsOptions = {
-  origin: allowedOrigins
+  origin: allowedOrigins,
 };
 
 const app = express();
 app.use(cors(options));
+//app.use(cors());
 app.use(express.json());
+app.use('/api/alive', aliveRouter);
 app.use('/api/auth', authRouter);
 app.use('/api/ingredient-classification', ingredientClassificationRouter);
 app.use('/api/ingredient', ingredientRouter);

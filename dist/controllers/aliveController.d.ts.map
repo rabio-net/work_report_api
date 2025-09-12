@@ -1,0 +1,1 @@
+{"version":3,"file":"aliveController.d.ts","sourceRoot":"","sources":["../../controllers/aliveController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAgB,MAAM,SAAS,CAAC;AAE1D,MAAM,CAAC,OAAO,OAAO,eAAe;WACrB,KAAK,CAChB,OAAO,EAAE,OAAO,EAChB,QAAQ,EAAE,QAAQ,CAAC,MAAM,CAAC;CAgB7B"}

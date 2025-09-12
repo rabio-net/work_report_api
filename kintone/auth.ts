@@ -14,7 +14,6 @@ export const getKintoneUser = async (username: string, pw_auth: string) => {
         },
       },
     );
-    console.log('loginUser', loginUser.status, loginUser.data);
     if (
       loginUser &&
       loginUser.status === 200 &&

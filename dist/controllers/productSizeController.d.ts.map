@@ -1,0 +1,1 @@
+{"version":3,"file":"productSizeController.d.ts","sourceRoot":"","sources":["../../controllers/productSizeController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAgB,MAAM,SAAS,CAAC;AAI1D,MAAM,CAAC,OAAO,OAAO,qBAAqB;WAC3B,kBAAkB,CAC7B,OAAO,EAAE,OAAO,EAChB,QAAQ,EAAE,QAAQ;CAUrB"}
